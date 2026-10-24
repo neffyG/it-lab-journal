@@ -1,18 +1,16 @@
 # Lab NN: Title
 
-**Date:**  **Time spent:**
-
 ## Goal
-What I set out to do, in one or two sentences.
+What I wanted to do.
 
-## Topology
-Diagram or screenshot, plus the addressing table.
+## Setup
+A picture of the network and the IP addresses used.
 
-## What I did
-The key steps and commands only.
+## Steps
+The main commands I ran.
 
-## What broke and how I fixed it
-The most important section. What went wrong, how I figured it out, what fixed it.
+## Problems and fixes
+What broke, how I found it, and how I fixed it.
 
-## Proof
-Final config, `show` output, or a screenshot.
+## Result
+Proof that it works (screenshot or output).

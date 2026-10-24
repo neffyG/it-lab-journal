@@ -1,23 +1,31 @@
 # IT Lab Journal
 
-I'm Neftali, a CS grad (ASU) working my way into network and security work. This repo is my hands-on record: real labs, what broke, and how I fixed it.
+Hands-on labs in networking, systems, and security. Each lab shows what I built, what went wrong, and how I fixed it.
 
-**Goals (18 months, started Oct 2026):** CCNA → Security+, plus practical skills in networking, Active Directory, Linux, blue teaming, and DFIR.
+## What I'm working on
+
+- **Networking** – Cisco routing, switching, and subnetting (CCNA)
+- **Security** – security fundamentals and defense (Security+)
+- **Systems** – Linux, Windows Server, and Active Directory
+- **Scripting** – PowerShell, Bash, and Python
 
 ## Progress
 
-| Area | Status | Labs |
-|---|---|---|
-| CCNA (200-301) | In progress | 0 |
-| Security+ | Not started | 0 |
-| Linux | Not started | 0 |
-| Windows / AD | Not started | 0 |
-| Scripting | Not started | 0 |
+| Area | Labs done |
+|---|---|
+| Networking | 0 |
+| Security | 0 |
+| Linux | 0 |
+| Windows / AD | 0 |
+| Scripting | 0 |
 
-## Layout
+## Where things are
 
-- `ccna/labs/` – Packet Tracer labs (`.pkt` files + writeups)
-- `linux/`, `windows-ad/`, `security/` – VM labs
-- `scripts/` – PowerShell, Bash, and Python tools
-- `log.md` – weekly progress
-- `LAB_TEMPLATE.md` – the format every writeup follows
+| Folder | What's inside |
+|---|---|
+| `ccna/labs/` | Network labs (Packet Tracer) |
+| `security/` | Security labs |
+| `linux/` | Linux labs |
+| `windows-ad/` | Windows Server and Active Directory labs |
+| `scripts/` | Scripts I wrote |
+| `log.md` | Weekly progress |
